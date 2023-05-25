@@ -14,7 +14,7 @@ PerfAction also featured in LoadTestWorld 2021 conference.
 
 # How to use this GitHub Action?
 
-## Prerequisites
+## Prerequisites 1
 Following are the prerequisites for this GitHub Action:
 
 * `test-plan-path`
